@@ -5,12 +5,10 @@ been accomplished, but there is still important work to continue.
 In broad strokes, here are the big tasks that we are currently planning to
 work on or improve as we move towards a 1.0 release.
 
-### Community
+#### Community
 
 - Define and ratify Project Governance, transition to public meetings
 - Create a mechanism to make Bokeh extensions easily sharable, discoverable, and installable
-
-### Technical
 
 #### Core BokehJS improvements
 

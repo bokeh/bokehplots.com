@@ -21,6 +21,7 @@ work on or improve as we move towards a 1.0 release.
 
 - Add support for integrating with [Altair](//github.com/altair-viz/altair)
 - Expand the initial basic theming functionality
+- Full binary protocol for arrays
 - Add a "develop" mode to the Bokeh server
 
 #### Documentation

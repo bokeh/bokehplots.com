@@ -5,7 +5,7 @@
   width: 100%;
   z-index: 999;
   font-family: $source-sans-font-family;
-  
+
   ul, ol {
     list-style-type: none;
     margin: 0;
@@ -192,7 +192,7 @@
       padding-top: 0;
     }
   }
-  
+
   // Sub menus
   $navigation-submenu-padding: 1em;
   $navigation-submenu-width: 12em;
@@ -266,7 +266,7 @@
     @include media($large-screen) {
       padding: 1em;
       position: absolute;
-      top: 1.5em;
+      top: 1.0em;
     }
 
     .submenu {

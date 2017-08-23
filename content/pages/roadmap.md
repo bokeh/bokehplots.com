@@ -35,5 +35,5 @@ work on or improve as we move towards a 1.0 release.
 - Improved unit test coverage to above 95 percent
 - More Selenium tests to for interactive capabilities
 
-Please [contact us](http://bokehplots.com/pages/contact.html) if you are interested
+Please [contact us](https://bokehplots.com/pages/contact.html) if you are interested
 in contributing to Bokeh.

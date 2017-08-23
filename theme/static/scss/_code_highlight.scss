@@ -1,5 +1,6 @@
 .highlight {
   code, pre  {
+    font-variant-ligatures: none;
     color: $mint;
     background-color: lighten($light-grey, 5%);
     padding: 0.5em 1em;

@@ -4,13 +4,13 @@ We are always looking for contributors, and want to grow the developer/contribut
 base for Bokeh. The [Gitter chat channel](https://gitter.im/bokeh/bokeh) and the 
 [public mailing list](https://groups.google.com/a/continuum.io/forum/?pli=1#!forum/bokeh) 
 are great places to get in touch with current core developers, and the 
-[Developer Guide](http://bokeh.pydata.org/en/latest/docs/dev_guide.html) is a great place
+[Developer Guide](https://bokeh.pydata.org/en/latest/docs/dev_guide.html) is a great place
 to get set up for developing on Bokeh. We are eager to assist and mentor new contributors.
 
 If you are the author of an existing plotting library, or a user of another programming 
 language such as Julia or Swift, and would like your interfaces to generate output 
 that can be rendered by the
-[BokehJS](http://bokeh.pydata.org/en/latest/docs/dev_guide/bokehjs.html) JavaScript runtime, 
+[BokehJS](https://bokeh.pydata.org/en/latest/docs/dev_guide/bokehjs.html) JavaScript runtime, 
 we’d love to help with those integrations. 
 
 If you have a data API or other web-based tool that you think would be great to

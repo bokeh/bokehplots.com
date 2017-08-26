@@ -30,7 +30,7 @@ works together with Bokeh to render very large datasets faithfully and
 flexibly.
 
 The open-source Bokeh and datashader libraries are part of the broader technical vision
-of [Continuum Analytics](//continuum.io). By providing powerful data description and vector
+of [Anaconda, Inc.](//anaconda.com). By providing powerful data description and vector
 computing on remote and distributed data via [Blaze](http://blaze.pydata.org/), [Dask](http://dask.pydata.org/), and [Numba](http://numba.pydata.org), and providing
 interactive visualizations of them via Bokeh and datashader, we enable teams to
 collaboratively perform rich analysis, share them with others (including

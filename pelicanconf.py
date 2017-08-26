@@ -52,7 +52,7 @@ ABOUT = (
 # Social widget
 SOCIAL = (
     ('Contribute', '/pages/contribute.html'),
-    ('Mailing list', '//groups.google.com/a/continuum.io/forum/#!forum/bokeh'),
+    ('Mailing list', '//groups.google.com/a/anaconda.com/forum/#!forum/bokeh'),
     ('Gitter chat', '//gitter.im/bokeh/bokeh'),
     ('Github', '//github.com/bokeh/bokeh'),
     ('Twitter', '//twitter.com/BokehPlots'),

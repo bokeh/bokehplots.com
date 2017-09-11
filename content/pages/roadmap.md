@@ -15,14 +15,10 @@ work on or improve as we move towards a 1.0 release.
 - Migrate BokehJS codebase to [TypeScript](https://www.typescriptlang.org/)
 - Increase WebGL capability and support to more areas (e.g patches)
 - Support for scripted animations and visual transitions
-- Built-in capabilities for Networks/Graphs/Trees
 
 #### Core Python library
 
 - Add support for integrating with [Altair](//github.com/altair-viz/altair)
-- Expand the initial basic theming functionality
-- Full binary protocol for arrays
-- Add a "develop" mode to the Bokeh server
 
 #### Documentation
 
@@ -33,7 +29,6 @@ work on or improve as we move towards a 1.0 release.
 #### Testing
 
 - Improved unit test coverage to above 95 percent
-- More Selenium tests to for interactive capabilities
 
 Please [contact us](https://bokehplots.com/pages/contact.html) if you are interested
 in contributing to Bokeh.

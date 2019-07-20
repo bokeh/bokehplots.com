@@ -1,3 +1,8 @@
+
+# *** THIS REPOSITORY IS OBSOLETE ***
+
+New landing page is at bokeh.org
+
 # bokehplots.com
 Source code for bokeh landing site.
 
